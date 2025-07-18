@@ -71,7 +71,7 @@
     top: 200px;
     border: 1px solid #0087ff;
     width: 15%;
-    height: 400px;
+    height: 410px;
     color: #0087ff;
     left: 10px;
 
@@ -80,4 +80,19 @@
 
 .hero_logos{
     font-family: 'Inter', sans-serif;
+    color:  #0087ff;
+    transition: transform 0.s linear;
+    background-color: transparent;
 }
+
+.hero_logos:hover
+{
+    transform: scale(1.01);
+}
+
+
+.border_logo {
+
+    background-color: #00ceef;
+}
+
