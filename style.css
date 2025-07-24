@@ -77,11 +77,11 @@ transition: transform 0.3s ease-in-out;
 }
 .register_in{
     position: relative;
-    top: 450px;
+    top: 480px;
 }
 .register_in>a{
     position: relative;
-    top: 18px;
+    top: 65px;
     left: 180px;
 }
 
